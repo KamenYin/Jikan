@@ -232,7 +232,7 @@ current date and time and by extension the timezone which is determined based on
 <br>
 
 
-- Allows Snoozing where both the snooze duration and the number intervals can be customized. 
+- Allows snoozing where both the snooze duration and the number intervals can be customized. 
 
 
 
